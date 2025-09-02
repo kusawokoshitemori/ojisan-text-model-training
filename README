@@ -1,0 +1,12 @@
+アプリ制作の手順
+
+ojisan-text-model-training
+データを集める
+Keras/TensorFlowでテキスト分類モデルを作成する
+モデルを保存する
+
+ojisan-text-backend
+APIを作成Pythonでバックエンドを作成する
+
+ojisan-text-frontend
+TypeScript,Reactでwebアプリの作成
